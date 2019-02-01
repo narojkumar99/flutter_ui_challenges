@@ -40,7 +40,7 @@ The code for Springy Widget is taken and refactored from (https://github.com/mat
 (design credit: https://www.uplabs.com/posts/grocery-app-kit)
 
 ### Whats implemented
- - Working bottom navigator to show different pages
+ - Working bottom navigator to show different page
  - Navigation push/pop to show details page
  - Stateless & Stateful Widgets
  - Custom widgets for list items, category items etc.
